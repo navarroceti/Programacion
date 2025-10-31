@@ -8,6 +8,13 @@ El objetivo de esta actividad es generar un video usando clases propias y clases
 - Subir el video y la URL de su repositorio a classroom
 - Si tienen dudas escribir en el grupo de whatsapp
 
+## Ejemplo
+
+Si tienes todas las dependencias instaladas deberias de ser capas de correr el ejemplo usando el siguiente comando
+	```bash
+	make
+	```
+
 ## Dependencias
 
 ### Compilar libreria ftxui
